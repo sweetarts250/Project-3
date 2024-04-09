@@ -1417,3 +1417,20 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.09-19.18.20:190][  0]LogSlate: Took 0.000737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.04.09-19.18.20:216][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
 [2024.04.09-19.18.20:806][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.09-19.20.02:099][560]LogDerivedDataCache: C:/Users/pachecosanma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.034 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 306 files in 549 folders with total size 11 MiB.
+[2024.04.09-19.32.05:906][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2024.04.09-19.32.05:907][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2024.04.09-19.32.05:909][631]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2024.04.09-19.32.05:917][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-19.32.06:650][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2024.04.09-19.32.06:650][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2024.04.09-19.32.06:656][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C1F968BEA01_1575876727
+[2024.04.09-19.32.06:835][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.09-19.32.06:913][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-19.32.12:004][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.09-19.32.12:007][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-19.32.12:122][144]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4M/PCZUROF05NF9KSY29WD1K7
+[2024.04.09-19.32.12:122][144]LogSavePackage: Moving 'D:/Alex/Project-3/Project_3/Saved/PCZUROF05NF9KSY29WD1K7E351EF7F464E570BBF44168E7BC5AFBE.tmp' to 'D:/Alex/Project-3/Project_3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4M/PCZUROF05NF9KSY29WD1K7.uasset'
+[2024.04.09-19.32.12:168][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 1.59 sec)
+[2024.04.09-19.32.12:171][144]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_A4BB6D4C1F968BEA01_1575876727
+[2024.04.09-19.32.12:171][144]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C1F968BEA01_1575876727
