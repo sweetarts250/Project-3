@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Alex/Project-3/Project_3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Alex/Project-3/Project_3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4M/PCZUROF05NF9KSY29WD1K7.uasset"
+				"D:/Alex/Project-3/Project_3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4M/PCZUROF05NF9KSY29WD1K7.uasset",
+				"D:/Alex/Project-3/Project_3/Content/StarterContent/Particles/Fire.uasset",
+				"D:/Alex/Project-3/Project_3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/58/HR5ZGIPCYQVMOVLWGEP81U.uasset",
+				"D:/Alex/Project-3/Project_3/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
 			]
 		}
 	]
